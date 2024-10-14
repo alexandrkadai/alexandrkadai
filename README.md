@@ -1,1 +1,1 @@
-#Front End Developer.
+Front-End (React / Next) and React Native developer.
