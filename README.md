@@ -1,6 +1,5 @@
-<h2 align="left" style="color: purple;">Hi 👋! My name is Alex Kadai and I'm a Front-End Developer, from Kyiv</h2>
-
-###
+## Hello! My name is Alex Kadai 
+# I'm a Front-End Developer, from Kyiv
 
 <img
   align="right"
@@ -52,7 +51,7 @@
 ###
 
 <div align="left">
-<a href="https://alexkadai.vercel.app/" style="width: 100px; height: 50px; background-color: purple; color: white;">
+<a href="https://alexkadai.vercel.app/" style="width:100px; height:50px; background-color:purple; color:white;">
   WebSite
 </a>
   <a href="mailto:alexandrkadai@gmail.com">  <img
