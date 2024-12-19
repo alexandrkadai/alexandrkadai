@@ -1,17 +1,80 @@
-<h1 align="center" style="color:#A020F0; font:bold;">Hello </br> My Name Is </br> Alex Kadai</h1>
-<h3 align="center">A passionate frontend developer from Kyiv</h3>
+<h2 align="left" style="color: purple;">Hi 👋! My name is Alex Kadai and I'm a Front-End Developer, from Kyiv</h2>
 
-<h4>My main stack is:</h4>
-<div style="display:flex; flex-direction:row;">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="width: 100px; height:50px; background-color:lightblue;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+###
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<img
+  align="right"
+  height="150"
+  src="https://media.tenor.com/tsJCvxOPfxYAAAAM/prismo-adventure-time.gif"
+/>
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+###
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+<div align="left">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    height="30"
+    alt="javascript logo"
+  />
+  <img width="12" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+    height="30"
+    alt="typescript logo"
+  />
+  <img width="12" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    height="30"
+    alt="react logo"
+  />
+  <img width="12" />
 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+    height="30"
+    alt="html5 logo"
+  />
+  <img width="12" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
+    height="30"
+    alt="css3 logo"
+  />
+  <img width="12" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+    height="30"
+    alt="python logo"
+  />
 </div>
+
+###
+
+<div align="left">
+<a href="https://alexkadai.vercel.app/" style="width: 100px; height: 50px; background-color: purple; color: white;">
+  WebSite
+</a>
+  <a href="mailto:alexandrkadai@gmail.com">  <img
+    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+    height="35"
+    alt="gmail logo"
+  />
+</a>
+<a href="https://www.linkedin.com/in/kadaialexandr/">
+  <img
+    src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+    height="35"
+    alt="linkedin logo"
+  />
+</a>
+</div>
+
+###
+
+<br clear="both" />
+
+<img
+  src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg"
+  alt="Snake animation"
+/>
