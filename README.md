@@ -1,6 +1,5 @@
 # Hello! I`m Alex Kadai 
-
-## Front-End Developer, from Kyiv
+Front-End Developer, from Kyiv
 
 ### WebSite  https://alexkadai.vercel.app/
 
