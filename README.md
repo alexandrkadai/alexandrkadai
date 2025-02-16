@@ -1,10 +1,10 @@
-# Hello! I`m Alex Kadai 
-Front-End Developer, from Kyiv
+# Hello! 
+# I`m **Alex Kadai**
+## Front-End Developer
 
-### WebSite  https://alexkadai.vercel.app/
+### Portfolio  https://alexkadai.vercel.app/
 
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     height="30"
     alt="javascript logo"
   />
