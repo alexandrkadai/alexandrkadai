@@ -1,8 +1,8 @@
 # Hello! 
-# I`m **Alex Kadai**
+# I`m **Alex Kadai Adebur**
 ## Front-End Developer
 
-### Portfolio  https://alexkadai.vercel.app/
+### https://alexkadai.vercel.app/
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     height="30"
